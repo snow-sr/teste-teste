@@ -15,7 +15,7 @@ export default {
 <template>
     <main class="min-h-screen bg-gray-700">
         <div class="min-h-screen bg-primary">
-            <div class="px-10 w-full bg-white">
+            <div class="px-10 w-full bg-nav">
                 <Navbar />
             </div>
             <!-- Imagem header -->
