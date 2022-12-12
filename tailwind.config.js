@@ -8,14 +8,14 @@ module.exports = {
   theme: {
     extend: {},
     // create a color #6b3d1f with 70% opacity
-    colors: {
-      'main': {
-        'DEFAULT': 'rgba(224, 214, 208, 0.7)'
-      },
-      'secondary': {
-        'DEFAULT': 'rgba(20, 65, 111, 0.9)'
-      }
-    }
+    // colors: {
+    //   'main': {
+    //     'DEFAULT': 'rgba(224, 214, 208, 0.7)'
+    //   },
+    //   'secondary': {
+    //     'DEFAULT': 'rgba(20, 65, 111, 0.9)'
+    //   }
+    // }
   },
   plugins: [],
 }
