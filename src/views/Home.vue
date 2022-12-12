@@ -22,7 +22,7 @@ export default {
             <div class="bg-image-small w-full h-40">
                 <div class="bg-primary w-full h-full border-b-4 border-orange-400"></div>
             </div>
-            <div class="flex flex-col gap-8 w-full p-10">
+            <div class="flex flex-col gap-8 w-full p-10 container mx-auto">
                 <div class="text-xl" v-if="menu">
                     <h2>
                         MENU MODALIDADES

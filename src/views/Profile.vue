@@ -17,7 +17,7 @@ export default {
     <div class="h-screen bg-secondary">
         <Navbar/>
         <div class="flex h-screen justify-center items-center">
-        <profile/>
+            <profile/>
         </div>
     </div>
 </template>
