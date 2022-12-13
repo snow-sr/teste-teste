@@ -7,17 +7,25 @@
             </a>
                 <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0">
                     <li>
-                        <a href="#"
-                            class="block font-bold py-2 pl-3 pr-4 text-white bg-blue-900 rounded md:bg-transparent md:text-blue-900 md:p-0"
-                            aria-current="page">Modalidades</a>
+                        <a 
+                            href="#"
+                            class="block font-bold py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-900 md:p-0">
+                            Modalidades
+                        </a>
                     </li>
                     <li>
-                        <a href="#"
-                            class="block font-bold py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-900 md:p-0">Notícias</a>
+                        <a 
+                            href="#"
+                            class="block font-bold py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-900 md:p-0">
+                            Notícias
+                        </a>
                     </li>
                     <li>
-                        <a href="#"
-                            class="block font-bold py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-900 md:p-0">Minha Conta</a>
+                        <a 
+                            href="#"
+                            class="block font-bold py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-900 md:p-0">
+                            Minha Conta
+                        </a>
                     </li>
                 </ul>
         </div>

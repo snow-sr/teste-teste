@@ -14,10 +14,14 @@ export default {
 }
 </script>
 <template>
-    <div class="h-screen bg-secondary">
-        <Navbar/>
-        <div class="flex h-screen justify-center items-center">
-            <profile/>
+    <div class="h-screen bg-gray-700">
+        <div class="bg-primary min-h-full">
+            <div class="bg-nav">
+                <Navbar/>
+            </div>
+            <div class="flex justify-center mt-32">
+                <profile/>
+            </div>
         </div>
     </div>
 </template>

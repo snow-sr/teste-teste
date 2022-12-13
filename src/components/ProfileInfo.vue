@@ -4,7 +4,7 @@
         <div class="w-2/6">
             <img src="./../assets/bola.png" class="w-full" alt="">
         </div>
-        <div class="w-4/6 pl-8">
+        <div class="w-4/6 pl-8 flex flex-col gap-6">
             <!-- Informations -->
             <h1>Nome: </h1>
             <h1>Idade: </h1>
